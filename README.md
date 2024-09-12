@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20Cyber%20security%20and%20dev%20student&font=Fira%20Code&center=true&width=600&height=60&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<img align="right" alt="Gaming" width="400" src="https://github.com/moadza/moadza/blob/main/gamer_800x600.gif?raw=true">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moadza&label=Profile%20views&color=0e75b6&style=flat" alt="moadza" /> </p>
 
 - ⚡ Fun fact **I like video games (even tho I am pretty bad at them :) )**
 
