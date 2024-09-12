@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moad EL Motassadeq</h1>
-<h3 align="center">A passionate Cyber security and dev student</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20passionate%20Cyber%20security%20and%20dev%20student&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <img align="right" alt="Gaming" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 
 
