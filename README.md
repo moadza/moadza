@@ -18,6 +18,6 @@
 ## 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,kali,python,cpp,c,html,css,js,django,mysql" />
   </a>
 </p>
